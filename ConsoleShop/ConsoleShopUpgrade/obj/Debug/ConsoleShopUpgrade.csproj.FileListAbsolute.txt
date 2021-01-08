@@ -1,6 +1,0 @@
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShopUpgrade\bin\Debug\Peti Zadatak.exe.config
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShopUpgrade\bin\Debug\Peti Zadatak.exe
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShopUpgrade\bin\Debug\Peti Zadatak.pdb
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShopUpgrade\obj\Debug\ConsoleShopUpgrade.csproj.CoreCompileInputs.cache
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShopUpgrade\obj\Debug\Peti Zadatak.exe
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShopUpgrade\obj\Debug\Peti Zadatak.pdb

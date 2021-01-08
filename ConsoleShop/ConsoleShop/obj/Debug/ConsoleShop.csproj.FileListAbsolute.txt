@@ -1,6 +1,0 @@
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShop\bin\Debug\Cetvrti Zadatak.exe.config
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShop\bin\Debug\Cetvrti Zadatak.exe
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShop\bin\Debug\Cetvrti Zadatak.pdb
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShop\obj\Debug\ConsoleShop.csproj.CoreCompileInputs.cache
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShop\obj\Debug\Cetvrti Zadatak.exe
-C:\Users\mihal\source\repos\ConsoleShop\ConsoleShop\obj\Debug\Cetvrti Zadatak.pdb
